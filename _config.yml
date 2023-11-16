@@ -15,9 +15,12 @@ author: Darr3n
 
 navbar-links:
 #  About Me: "aboutme"
-  DEVMANTOO: "https://bitbucket.org/darboo/development-management-tool/src/master/"
 
   Resources:
+    - DEVMANTOO: "https://bitbucket.org/darboo/development-management-tool/src/master/"
+    - Ubuntu: "https://ubuntu.com/download/desktop"
+    - Windows Media Creation Tool: "https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d"
+    - YUMI: "https://pendrivelinux.com/yumi-multiboot-usb-creator/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
